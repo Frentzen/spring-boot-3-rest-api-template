@@ -6,3 +6,4 @@ metadata:
 spec:
   type: service
   owner: user:default/frentzenamaral
+  lifecycle: development
