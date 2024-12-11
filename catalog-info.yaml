@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: springboot-openapi
-  description: A Spring Boot application with OpenAPI and CRUD functionality
+  name: springboot-openapi-new-new
+  description: test for this new component
 spec:
   type: service
-  owner: user:default/frentzenamaral
+  owner: guest
   lifecycle: development
